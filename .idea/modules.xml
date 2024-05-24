@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/CrossLab7.iml" filepath="$PROJECT_DIR$/.idea/CrossLab7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/__MACOSX.CrossLab7.iml" filepath="$PROJECT_DIR$/.idea/modules/__MACOSX.CrossLab7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dictionaryAPI.iml" filepath="$PROJECT_DIR$/.idea/modules/dictionaryAPI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dictionaryAPI.commonMain.iml" filepath="$PROJECT_DIR$/.idea/modules/dictionaryAPI.commonMain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dictionaryAPI.commonTest.iml" filepath="$PROJECT_DIR$/.idea/modules/dictionaryAPI.commonTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dictionaryAPI.jvmMain.iml" filepath="$PROJECT_DIR$/.idea/modules/dictionaryAPI.jvmMain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dictionaryAPI.jvmTest.iml" filepath="$PROJECT_DIR$/.idea/modules/dictionaryAPI.jvmTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dictionaryAPI.main.iml" filepath="$PROJECT_DIR$/.idea/modules/dictionaryAPI.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dictionaryAPI.test.iml" filepath="$PROJECT_DIR$/.idea/modules/dictionaryAPI.test.iml" />
+    </modules>
+  </component>
+</project>
